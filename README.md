@@ -16,14 +16,6 @@ The objective is to reduce model size, improve inference speed, and make the sys
 - Clean modular code structure
 
 
-## Model Compression
-
-| Metric | Value |
-|--------|--------|
-| Original Model | ~29 MB |
-| Quantized Model | ~6–7 MB |
-| Reduction | ~4–5× smaller |
-
 Quantization converts float32 weights into int8, significantly reducing memory usage while maintaining strong predictive performance.
 
 ## Project Structure
