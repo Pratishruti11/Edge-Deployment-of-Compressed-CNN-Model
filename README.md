@@ -18,5 +18,12 @@ The objective is to reduce model size, improve inference speed, and make the sys
 
 Quantization converts float32 weights into int8, significantly reducing memory usage while maintaining strong predictive performance.
 
-## Project Structure
+## Model Compression
+
+| Metric | Value |
+|--------|--------|
+| Quantized Model | 5.92 MB |
+| Reduction | 2.8x smaller |
+|Infernce latency | 7.99 ms |
+|Throughput | 125.1 images/sec |
 
