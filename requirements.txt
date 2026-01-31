@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-model-optimization
+flask
+pillow
+numpy
+psutil
